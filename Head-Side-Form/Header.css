@@ -1,0 +1,21 @@
+.header {
+    background-color: #4CAF50;
+    padding: 20px;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .toggle-btn {
+    background-color: #333;
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+  }
+  
+  .toggle-btn:hover {
+    background-color: #555;
+  }
+  
